@@ -29,5 +29,5 @@ Credit-Card
 - LinkedIn: [Sneh Shah](https://www.linkedin.com/in/sneh-shah29/)
 - Portfolio: [Sneh2909](https://sneh2909.github.io/Portfolio/)
 
-Feel free to connect with me, whether for collaboration, discussions, or to say hello!
+Feel free to connect with me for collaboration, discussions, or to say hello!
 
