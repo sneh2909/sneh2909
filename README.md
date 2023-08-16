@@ -1,6 +1,6 @@
-# Hello, World! 👋
+# Hello, I'm Sneh Shah! 👋
 
-Welcome to my GitHub profile! I am Sneh, a passionate MSc Data Science student at Christ University. Here, you'll find a collection of my projects and contributions related to data science. Feel free to explore, collaborate, and provide feedback.
+Welcome to my GitHub profile! I am a passionate MSc Data Science student at Christ University. Here, you'll find a collection of my projects and contributions related to data science. Feel free to explore, collaborate, and provide feedback.
 
 ## About Me
 
@@ -10,27 +10,22 @@ Welcome to my GitHub profile! I am Sneh, a passionate MSc Data Science student a
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: [Diabetic Retinopathy Detection]
 
-Description: Briefly describe the project, its goal, and its significance.
+I orchestrated the development of an AI-powered diabetic retinopathy detection system. Leveraging deep learning techniques
+• Uses the CNN model to extract features from the images. Then used the features to predict Diabetic Retinopathy using machine learning algorithms
+• The project achieved an impressive 92% accuracy rate in classifying retinal images, effectively assisting medical professionals in early disease identification.
+• I enabled the reduction of false negatives by 27%, showcasing my dedication to impactful technological solutions.
+Credit-Card
 
-- Repository: [Link to Repository](https://github.com/sneh2909/project1)
-- Technologies: List the main tools and technologies used (e.g., Python, TensorFlow, scikit-learn).
-- Highlights: Mention key features, challenges overcome, and outcomes achieved.
+- Repository: [Link to Repository](https://github.com/sneh2909/diabetic-retinopathy)
+- Technologies: Python, TensorFlow, Keras, Scikit-Learn, OpenCV, Pandas.
+- Highlights: 92% accuracy rate, reduction of false negatives by 27%.
 
-### Project 2: [Project Name]
-
-Description: Briefly describe the project, its goal, and its significance.
-
-- Repository: [Link to Repository](https://github.com/sneh2909/project2)
-- Technologies: List the main tools and technologies used (e.g., R, pandas, matplotlib).
-- Highlights: Mention key features, challenges overcome, and outcomes achieved.
-
-<!-- Add more projects as needed -->
 
 ## Contact
 
-- 📫 You can reach me via email at your.email@example.com.
+- 📫 You can reach me via email at snehshah2901@gmail.com.
 - LinkedIn: [Sneh Shah](https://www.linkedin.com/in/sneh-shah29/)
 - Portfolio: [Sneh2909](https://sneh2909.github.io/Portfolio/)
 
