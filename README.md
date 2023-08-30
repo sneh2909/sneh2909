@@ -8,20 +8,6 @@ Welcome to my GitHub profile! I am a passionate MSc Data Science student at Chri
 - 🌱 I'm enthusiastic about machine learning, data analysis, and solving real-world problems.
 - 📚 Always eager to learn and stay updated with the latest trends in the field of data science.
 
-## Projects
-
-### Project 1: [Diabetic Retinopathy Detection]
-
-I orchestrated the development of an AI-powered diabetic retinopathy detection system. Leveraging deep learning techniques
-• Uses the CNN model to extract features from the images. Then used the features to predict Diabetic Retinopathy using machine learning algorithms
-• The project achieved an impressive 92% accuracy rate in classifying retinal images, effectively assisting medical professionals in early disease identification.
-• I enabled the reduction of false negatives by 27%, showcasing my dedication to impactful technological solutions.
-Credit-Card
-
-- Repository: [Link to Repository](https://github.com/sneh2909/diabetic-retinopathy)
-- Technologies: Python, TensorFlow, Keras, Scikit-Learn, OpenCV, Pandas.
-- Highlights: 92% accuracy rate, reduction of false negatives by 27%.
-
 
 ## Contact
 
