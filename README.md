@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I am a passionate MSc Data Science student at Chri
 - 📫 You can reach me via email at snehshah2901@gmail.com.
 - LinkedIn: [Sneh Shah](https://www.linkedin.com/in/sneh-shah29/)
 - Portfolio: [Sneh2909](https://sneh2909.github.io/Portfolio/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneh909)](https://github.com/anuraghazra/github-readme-stats)
-
+- Contact: +91 9428911398
 
 Feel free to connect with me for collaboration, discussions, or to say hello!
 
